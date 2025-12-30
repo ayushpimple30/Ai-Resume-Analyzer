@@ -11,7 +11,8 @@ A modern, ATS-focused Resume Analyzer web application that evaluates resumes, hi
 🔗 **Live Demo:**  
 https://ayushpimple30.github.io/Ai-Resume-Analyzer/
 
-![Deployment](https://img.shields.io/github/deployments/ayushpimple30/Ai-Resume-Analyzer/github-pages)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ayushpimple30.github.io/Ai-Resume-Analyzer/)
+
 
 
 ---
