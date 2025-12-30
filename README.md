@@ -93,5 +93,6 @@ You are free to use, modify, and distribute this project with attribution.
 
 See the [LICENSE](LICENSE) file for details.
 
+
 ```
 ⭐ If you like this project, give it a star — it really helps!
