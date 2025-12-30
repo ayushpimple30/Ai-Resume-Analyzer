@@ -1,6 +1,9 @@
 # 🤖 AI Resume Analyzer & Career Consultant
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![GitHub stars](https://img.shields.io/github/stars/ayushpimple30/Ai-Resume-Analyzer)
+![Last Commit](https://img.shields.io/github/last-commit/ayushpimple30/Ai-Resume-Analyzer)
+![Deployment](https://img.shields.io/github/deployments/ayushpimple30/Ai-Resume-Analyzer/github-pages)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
 A modern, ATS-focused Resume Analyzer web application that evaluates resumes, highlights missing keywords, matches skills, and provides AI-powered career guidance tools — built for students, job seekers, and professionals.
