@@ -1,5 +1,8 @@
 # 🤖 AI Resume Analyzer & Career Consultant
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+
 A modern, ATS-focused Resume Analyzer web application that evaluates resumes, highlights missing keywords, matches skills, and provides AI-powered career guidance tools — built for students, job seekers, and professionals.
 
 🔗 **Live Demo:**  
