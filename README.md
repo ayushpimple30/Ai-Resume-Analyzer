@@ -74,7 +74,7 @@ https://ayushpimple30.github.io/Ai-Resume-Analyzer/
 npm install
 npm run dev
 
-
+```
 
 ## 📄 License
 
