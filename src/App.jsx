@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 
 /* ================= GEMINI API ================= */
-const apiKey = "AIzaSyCGqVTTMAW0LdR-r6M0W6TPGR72dgWxMW4"; // 🔴 ADD YOUR KEY
+const apiKey = "Your Api Key"; // 🔴 ADD YOUR KEY
 
 const callGemini = async (prompt) => {
   try {
